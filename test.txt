@@ -1,0 +1,4 @@
+navigate to folder and use git bash there.
+git config --global user.name "Teja99-tech"
+git config --global user.email fortuneteja9@gmail.com
+create repository in github then git clone https://github.com/Teja99-tech/samp.git
